@@ -14,4 +14,4 @@ The hardware parts used for this project were: <br />
 - Power Distribution Board<br />
 - Servo Motors<br /><br />
 
-The main aim of this project was to gain exposure to the fast prototyping techniques, so as to better convert your ideas into reality. Programming boards introduces us to a different programming style and also requires us to write efficient source code due to the lack of compute power on board. 
+The main aim of this project was to gain exposure to the fast prototyping techniques, so as to better convert your ideas into reality. Programmable boards introduce us to a different programming style and also requires us to write efficient source code due to the lack of compute power on board. 
